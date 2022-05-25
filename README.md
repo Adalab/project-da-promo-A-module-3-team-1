@@ -4,16 +4,18 @@
 # SPRINT 1
 
 - Documentación sobre Alquiler de Bicis
-- Explorar los documentos - input (EDA).
-- Gráfica
-**-  Limpieza:**
+- Explorar los documentos - input (EDA)
+- Gráficas
+
+-  **Limpieza:**
 -- Nulos
 -- Outliers
 -- Codificación
 -- Normalización
 -- Estandarización
-- EDA II: conclusiones preliminares & hipótesis
-- Gráficas
+
+- EDA II: conclusiones preliminares (con gráficas) & hipótesis
+
 
 # SPRINT 2
 -- Modelo
