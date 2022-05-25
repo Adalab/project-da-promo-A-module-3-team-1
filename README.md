@@ -1,7 +1,7 @@
 # project-da-promo-A-module-3-team-1
 
 
-## SPRINT 1
+# SPRINT 1
 
 - Documentación sobre Alquiler de Bicis
 - Explorar los documentos - input (EDA).
@@ -15,10 +15,11 @@
 - EDA II: conclusiones preliminares & hipótesis
 - Gráficas
 
-## SPRINT 2. 
+# SPRINT 2
+-- Modelo
 
-# CALENDARIO:
+## CALENDARIO:
 
-3/06 - SPRINT REVIEW + DEMO
-15/06 - SPRINT REVIEW
-16/06 - DEMO FINAL
+--3/06 - SPRINT REVIEW + DEMO
+--15/06 - SPRINT REVIEW
+--16/06 - DEMO FINAL
