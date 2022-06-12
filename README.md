@@ -11,10 +11,10 @@
 
 
 # SPRINT 2
-- Visualización_bike_parte_1 ESTO SON LAS GRAFICAS E INFO GENERAL
-- Modificacion_columnas_ parte_2 ESTAS SON LAS MODIFICACIONES DEL DATAFRAME
+- Visualización_bike_parte_1 
+- Modificacion_columnas_ parte_2 
 - EDA_parte_3. Limpieza EDA
-- Regresion_Lineal_multiple_parte_4 MODELO DE REGRESION 
+- Regresion_Lineal_multiple_parte_4 
 
 ## CALENDARIO:
 
