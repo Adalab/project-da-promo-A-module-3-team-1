@@ -13,7 +13,7 @@
 # SPRINT 2
 - Visualización_bike_parte_1 
 - Modificacion_columnas_ parte_2 
-- EDA_parte_3. Limpieza EDA
+- EDA_parte_3
 - Regresion_Lineal_multiple_parte_4 
 
 ## CALENDARIO:
